@@ -1,7 +1,7 @@
 {
-  "name": "rsn-chatbot",
+  "name": "rsn-bot",
   "version": "1.0.0",
-  "description": "a chatbot",
+  "description": "Your Ultimate Discord Companion",
   "main": "src/index.js",
   "scripts": {
     "start": "node index.js",

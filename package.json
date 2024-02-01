@@ -1,0 +1,19 @@
+{
+  "name": "rsn-chatbot",
+  "version": "1.0.0",
+  "description": "a chatbot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kentaplayz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "rsnchat": "^3.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

@@ -37,3 +37,11 @@ To run the bot, simply run the following command:
 ```bash
 node index.js
 ```
+
+## Api Key
+
+Join our discord server to get api key https://discord.gg/6ahRY6am65
+
+## Contact
+
+If you have any questions or suggestions, then you can join our [support server](https://discord.gg/6ahRY6am65) and ask there.

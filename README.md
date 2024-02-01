@@ -1,4 +1,4 @@
- # RsnChat Bot
+ # Rsn Bot
 
  Dive into a new era of interactive experiences with RSN Bot, the feature-packed Discord bot designed to elevate your server's engagement. Crafted in JavaScript using the powerful Discord.js library, RSN Bot seamlessly integrates the cutting-edge RsnChat API for an unparalleled chat and image generation experience.
 

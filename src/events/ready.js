@@ -6,7 +6,7 @@ module.exports = {
   async execute(client) {
 
     client.user.setActivity({
-      name: "",
+      name: "/dalle",
       type: ActivityType.Playing,
     });
 
